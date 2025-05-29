@@ -37,7 +37,7 @@ public class Users {
 	private String lastName;
 	private String email;
 	private String password;
-	@ColumnDefault(value = "USER")
+	@Column(nullable = false)
 	private String role;
 	
 	@PrePersist
