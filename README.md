@@ -23,7 +23,7 @@ This is a Spring Boot-based microservice for user management, including JWT auth
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/user-management-service.git
+git clone https://github.com/MaheshBhakare/user-management-service.git
 
 
 2. Configure your `application.yml` with DB credentials.
